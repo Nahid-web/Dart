@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca0a23a5-5023-4bbd-9818-8f10e6257621" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/m10_number_minimizer.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m10_value_shifter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11_p1_buildToyCar.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11_p2_find_discount.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m12_p1_cakeSelection.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m12_p2_tile_tidy.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m12_p3_assignment_deadline.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m13_p1_lazy_walking.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m13_p2_fft.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m16_p1_bracketMatching.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m16_p2_postfix_expression.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m16_p2_prefix_expression.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m14_p1_classify_events.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m14_p2_odd_seeds.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t_finder_m8.dart" beforeDir="false" afterPath="$PROJECT_DIR$/t_finder_m8.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +42,8 @@
     "Dart Command Line App.m12_p3_assignment_deadline.dart.executor": "Run",
     "Dart Command Line App.m13_p1_lazy_walking.dart.executor": "Run",
     "Dart Command Line App.m13_p2_fft.dart.executor": "Run",
+    "Dart Command Line App.m14_p1_classify_events.dart.executor": "Run",
+    "Dart Command Line App.m14_p2_odd_seeds.dart.executor": "Run",
     "Dart Command Line App.m16_p1_bracketMatching.dart.executor": "Run",
     "Dart Command Line App.m16_p2_postfix_expression.dart.executor": "Run",
     "Dart Command Line App.m16_p2_prefix_expression.dart.executor": "Run",
@@ -91,6 +82,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/m14_p1_classify_events.dart</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
