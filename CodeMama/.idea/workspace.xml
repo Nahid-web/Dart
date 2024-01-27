@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca0a23a5-5023-4bbd-9818-8f10e6257621" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/m14_p1_classify_events.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m14_p2_odd_seeds.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m21_remove_trailing_zeros.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m21_repdigit.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -47,6 +50,8 @@
     "Dart Command Line App.m16_p1_bracketMatching.dart.executor": "Run",
     "Dart Command Line App.m16_p2_postfix_expression.dart.executor": "Run",
     "Dart Command Line App.m16_p2_prefix_expression.dart.executor": "Run",
+    "Dart Command Line App.m21_remove_trailing_zeros.dart.executor": "Run",
+    "Dart Command Line App.m21_repdigit.dart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
